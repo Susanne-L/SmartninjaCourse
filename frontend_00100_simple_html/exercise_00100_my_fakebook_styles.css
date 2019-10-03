@@ -1,0 +1,33 @@
+li {
+    color: blue;
+
+}
+
+ul {
+    color: red;
+    background: lightblue;
+}
+
+#red {
+    color: red;
+     }
+
+
+#blue {
+    background: blue;
+    }
+
+.thead {
+    color:green;
+}
+.thead1 {
+    color: purple;
+}
+
+.image {
+    padding: 10px;
+    border: 6px pink solid;
+    margin: 20px;
+    width: 400px;
+    margin: 0 auto;
+}

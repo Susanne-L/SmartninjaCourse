@@ -11,7 +11,8 @@ ul {
 #red {
     color: red;
      }
-
+#red:hover {color: yellow; background: purple;
+}
 
 #blue {
     background: blue;
@@ -27,7 +28,11 @@ ul {
 .image {
     padding: 10px;
     border: 6px pink solid;
-    margin: 20px;
-    width: 400px;
-    margin: 0 auto;
+    margin: 20px
+    height: 450px;
+    width: 450px;
+}
+
+.image:hover {
+  border: 6px red solid;
 }

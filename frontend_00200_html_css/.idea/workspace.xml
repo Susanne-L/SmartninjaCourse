@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c50cf26-f594-4bab-ae3a-45165aa0af32" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../frontend_00100_simple_html/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/frontend_00200_html_css.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cheatsheet-CSS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cheatsheet-HTML-Blockelemente.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cheatsheet-HTML-Singleton-Tags.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eple.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00000_styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00100_styles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00200_link_css_styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00200_link_css_styles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00210_more_paragraphs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00210_more_paragraphs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00220_different_styles_with_ids.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00220_different_styles_with_ids.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00230_different_styles_with_classes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00230_different_styles_with_classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00240_styling_tables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00240_styling_tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00300_border_margin_padding.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00300_border_margin_padding.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00310_centered_image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00310_centered_image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00400_hover.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00400_hover.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00400_hover_exercise.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00400_hover_exercise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00400_hover_exercise_solution.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00400_hover_exercise_solution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00500_hover.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00500_hover.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00500_transition.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00500_transition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00510_transition_image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00510_transitionimage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00600_fullscreen_video_background.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_00600_fullscreen_video_background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smartninja_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/.idea/frontend_00300_boogle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/example_00700_intro_divs/page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/example_00700_intro_divs/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/example_00710_intro_div_positions/page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/example_00710_intro_div_positions/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/example_00720_intro_style_img/cat_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/example_00720_intro_style_img/kitten.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/example_00720_intro_style_img/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/example_00800_boogle_simple/anonymous.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/example_00800_boogle_simple/google-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/example_00800_boogle_simple/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/example_00800_boogle_simple/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/example_00810_boogle_advanced/boogle-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/example_00810_boogle_advanced/boogle-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/example_00810_boogle_advanced/booglelogo_neu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/homework_3_1_Boogle/.idea/homework_3_1_Boogle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/homework_3_1_Boogle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/homework_3_1_Boogle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/homework_3_1_Boogle/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/homework_3_1_Boogle/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/homework_3_1_Boogle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/homework_3_1_Boogle/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/homework_3_1_Boogle/anonymous.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/homework_3_1_Boogle/example.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/homework_3_1_Boogle/google-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/homework_3_1_Boogle/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend_00300_boogle/homework_3_1_Boogle/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend_00100_simple_html/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend_00100_simple_html/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend_00100_simple_html/exercise_00100_my_fakebook.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend_00100_simple_html/exercise_00100_my_fakebook.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend_00100_simple_html/exercise_00100_my_fakebook_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend_00100_simple_html/exercise_00100_my_fakebook_styles.css" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="frontend_00200_html_css" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1RYnFAMXLFAjIP1Mr9aHPK25rrs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c50cf26-f594-4bab-ae3a-45165aa0af32" name="Default Changelist" comment="" />
+      <created>1569852790728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569852790728</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

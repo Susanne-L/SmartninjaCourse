@@ -1,0 +1,16 @@
+        /*
+            Create styles for hovering ver a div with color change
+        */
+.divHover {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.divHover:hover {
+    background-color: green;
+}
+Ausblenden
+
+
+
